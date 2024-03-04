@@ -162,8 +162,3 @@ def main(repeat = "y"):
 		main(repeat)
 	
 main()
-
-
-# Edin Mehanovic
-# What I found challenging was the whole setting up of the 'read_file' function. As well as the error-correcting in the input, the how to do the process for this assignment. 
-# I now have a better understanding of how lists work and how to use them properly. I've learned how to use a dataset in excel, which I think will heavily help me down my future career pathway. 
